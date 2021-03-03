@@ -1,8 +1,6 @@
-MovieRoom App
+## MovieRoom App
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 Steps
 
 ```javascript
