@@ -4,6 +4,8 @@ body {
   
 }
 
+    
+
 .header {
     background : #05386b;
     color : #EDF5E1;
@@ -26,6 +28,16 @@ body {
 
 
 }
+.navbar {
+    background : #05386b;
+    color : #EDF5E1;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 50px
+}
+
+
 
 
 .imagediv {
